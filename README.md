@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating awesome websites
 - 🌱 I’m currently learning: Laravel
 - 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: I'm a ghost, you can't
+- 📫 How to reach me:
 
 Sorry, I had to write this :)
 
