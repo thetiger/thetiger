@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thetiger
 - 👀 I’m interested in Creating awesome websites
 - 🌱 I’m currently learning: Laravel
-- 💞️ I’m looking to collaborate on: nothing
+- 💞️ I’m looking to collaborate on:
 - 📫 How to reach me:
 
 Sorry, I had to write this :)
